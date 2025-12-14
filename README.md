@@ -84,19 +84,3 @@ Instead, they often reflect news-driven curiosity (injuries, trades, controversi
 
 ---
 
-## 📁 Repository Structure
-
-mlb-attendance-digital-engagement/
-├── README.md            # Project overview, research question, and key results
-├── code/                # R scripts for data cleaning, panel construction, and regression modeling
-│   └── capstone.R
-├── figures/             
-│   ├── attendance_trend_timeseries.png
-│   ├── demeaned_scatter_plot.png
-│   └── distribution of weekly home games.png
-├── paper/               # Written deliverables
-│   ├── capstone_project_paper.pdf
-│   └── science_article.pdf
-│   └── capstone_proposal.pdf
-│   └── capstone_slide.pdf
-
