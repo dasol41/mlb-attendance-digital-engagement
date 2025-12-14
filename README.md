@@ -78,6 +78,7 @@ Instead, they often reflect news-driven curiosity (injuries, trades, controversi
 ### Weekly Attendance vs. Lagged Google Trends
 ![Time Series](figures/attendance_trend_timeseries.png)
 
+
 ### Fixed Effects Relationship (Within-Team)
 ![FE Plot](figures/demeaned_scatter_plot.png)
 
